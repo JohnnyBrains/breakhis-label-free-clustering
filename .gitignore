@@ -1,0 +1,40 @@
+Dataset files
+
+*.tar.gz
+*.zip
+BreaKHis/
+BreaKHis_v1/
+BreaKHis_v1.tar.gz
+
+Python
+
+pycache/
+*.py[cod]
+.ipynb_checkpoints/
+
+Virtual environments
+
+venv/
+.venv/
+env/
+
+Secrets and credentials
+
+.env
+*.key
+*.pem
+
+Operating system files
+
+.DS_Store
+Thumbs.db
+
+Manuscripts and internal documents
+
+*.docx
+AUDIT_notebook_vs_manuscript.md
+
+Temporary/local files
+
+*.tmp
+*.bak

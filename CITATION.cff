@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "BreaKHis Label-Free Clustering Analysis"
+message: "If you use this software, please cite the associated publication and this archived software release."
+type: software
+authors:
+  - family-names: "Omoju"
+    given-names: "John"
+repository-code: "https://github.com/JohnnyBrains/breakhis-label-free-clustering"
+license: MIT
+version: 1.0.0
