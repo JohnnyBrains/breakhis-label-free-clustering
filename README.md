@@ -6,7 +6,11 @@ This repository contains the analysis notebook and supporting figures used for t
 
 
 
-Repository contents
+Repository contents:
+GitHub repository: https://github.com/JohnnyBrains/breakhis-label-free-clustering
+Release: v1.0.0
+Zenodo DOI: https://doi.org/10.5281/zenodo.21962011
+Archived version: 10.5281/zenodo.21962011
 
 conferenceBreaKhis\_CLustering.ipynb — analysis notebook used for the reported experiments.
 
